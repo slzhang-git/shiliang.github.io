@@ -4,15 +4,19 @@ You can use the [editor on GitHub](https://github.com/slzhang-git/shiliang.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## **Career and education**
+## **Education and Career**
 
-**2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full time) 
+**2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
 
-**2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (full time) 
+**2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (full-time) 
 
 **2013/12 to 2014/12:** Research assistant at [China Aerospace Science and Technology Corporation](http://english.spacechina.com) (Part-time)
 
 **2012/06 to 2012/09:** Research assistant at [State Grid Corporation of China](http://www.sgcc.com.cn/html/sgcc_main_en/index.shtml) (Part-time)
+
+**2011/09 to 2018/07** Master and PhD at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(full-time) 
+
+**2007/09 to 2011/07** Bachelor at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)(full-time) 
 
 ## **Teaching**
 
