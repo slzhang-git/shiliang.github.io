@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/slzhang-git/shiliang.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## **Education and Career**
+## **Education & Career**
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
 
@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **2007/09 to 2011/07:** Bachelor at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)(full-time) 
 
-## **Teaching**
+## **Teaching Experience**
 
 Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2021 at Chalmers)
 
@@ -30,7 +30,7 @@ Teacher for Master course [DAT147: Technical writing in Computer Systems and Net
 
 Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2020 at Chalmers)
 
-## **Projects and Publications**
+## **Projects & Publications**
 
 ## **Acadmic Participations**
 
