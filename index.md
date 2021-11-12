@@ -16,6 +16,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Teaching
 
+**2021 at Chalmers** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
+
+**2021 at Chalmers** Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications)
+
+**2021 at Chalmers** Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068)
+
+**2021 at Chalmers** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
+
+**2020 at Chalmers** Teacher for Master course [DAT147: Technical writing in Computer Systems and Networks](https://chalmers.instructure.com/courses/10296/assignments/syllabus)
+
+**2020 at Chalmers** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
+
 ## Projects and Publications
 
 ## Acadmic Participations
