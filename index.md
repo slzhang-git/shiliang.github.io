@@ -16,21 +16,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## **Teaching**
 
-**2021 at Chalmers:** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
+Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2021 at Chalmers)
 
-**2021 at Chalmers:** Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications)
+Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications)(2021 at Chalmers)
 
-**2021 at Chalmers:** Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068)
+Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068)(2021 at Chalmers)
 
-**2020 at Chalmers:** Teacher for Master course [DAT147: Technical writing in Computer Systems and Networks](https://chalmers.instructure.com/courses/10296/assignments/syllabus)
+Teacher for Master course [DAT147: Technical writing in Computer Systems and Networks](https://chalmers.instructure.com/courses/10296/assignments/syllabus)(2020 at Chalmers)
 
-**2020 at Chalmers:** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
+Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2020 at Chalmers)
 
 ## **Projects and Publications**
 
 ## **Acadmic Participations**
 
 ## **Pedagogical Development**
+
+Chalmers pedagogical course [CLS930–Diversity and Inclusion for Learning in Higher Education](https://chalmersuniversity.app.box.com/s/r8fw8ve1f2y2n3zc2mddr3kr8v37sg4i) (completed in 2021)
+
+Chalmers pedagogical course [CLS925-University Teaching and Learning](https://chalmersuniversity.app.box.com/s/4suyobb5adcd022jmnkchfpfbh4t19ra) 
 
 **Bold** and _Italic_ and `Code` text
 
