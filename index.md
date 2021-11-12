@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Working Experience
 
+#### Post-doc researcher at [Chalmers University of Technology](https://www.huawei.com/en/) (full time, from 2020/06 to now) 
+
+#### Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.chalmers.se/en/Pages/default.aspx) (full time, from 2018/04 to 2019/09) 
+
 ## Teaching
 
 ## Projects and Publications
