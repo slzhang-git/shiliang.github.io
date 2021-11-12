@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/slzhang-git/shiliang.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## **Working Experience**
+## **Career and education**
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full time) 
 
@@ -35,6 +35,8 @@ Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems]
 Pedagogical diploma course [CLS930–Diversity and Inclusion for Learning in Higher Education](https://chalmersuniversity.app.box.com/s/r8fw8ve1f2y2n3zc2mddr3kr8v37sg4i) (completed in 2021 at Chalmers)
 
 Pedagogical diploma course [CLS925-University Teaching and Learning](https://chalmersuniversity.app.box.com/s/4suyobb5adcd022jmnkchfpfbh4t19ra) 
+
+Pedagogical diploma course [CLS910 –Supervising writing processes](https://chalmersuniversity.app.box.com/s/tbpcugrl16fpktt93p8n25shkhxixuwh) 
 
 **Bold** and _Italic_ and `Code` text
 
