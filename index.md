@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/slzhang-git/shiliang.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Working Experience
+## **Working Experience**
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.huawei.com/en/) (full time) 
 
@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **2012/06 to 2012/09:** Research assistant at [State Grid Corporation of China](http://www.sgcc.com.cn/html/sgcc_main_en/index.shtml) (Part-time)
 
-## Teaching
+## **Teaching**
 
 **2021 at Chalmers:** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
 
@@ -26,11 +26,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **2020 at Chalmers:** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
 
-## Projects and Publications
+## **Projects and Publications**
 
-## Acadmic Participations
+## **Acadmic Participations**
 
-## Pedagogical Development
+## **Pedagogical Development**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
