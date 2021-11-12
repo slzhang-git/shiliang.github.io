@@ -7,23 +7,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## **Working Experience**
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.huawei.com/en/) (full time) 
-
 **2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.chalmers.se/en/Pages/default.aspx) (full time) 
-
 **2013/12 to 2014/12:** Research assistant at [China Aerospace Science and Technology Corporation](http://english.spacechina.com) (Part-time)
-
 **2012/06 to 2012/09:** Research assistant at [State Grid Corporation of China](http://www.sgcc.com.cn/html/sgcc_main_en/index.shtml) (Part-time)
 
 ## **Teaching**
 
 **2021 at Chalmers:** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
-
 **2021 at Chalmers:** Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications)
-
 **2021 at Chalmers:** Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068)
-
 **2020 at Chalmers:** Teacher for Master course [DAT147: Technical writing in Computer Systems and Networks](https://chalmers.instructure.com/courses/10296/assignments/syllabus)
-
 **2020 at Chalmers:** Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)
 
 ## **Projects and Publications**
