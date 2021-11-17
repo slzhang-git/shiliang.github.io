@@ -50,7 +50,7 @@ Pedagogical diploma course [CLS930–Diversity and Inclusion for Learning in Hig
 
 Pedagogical diploma course [CLS925-University Teaching and Learning](https://chalmersuniversity.app.box.com/s/4suyobb5adcd022jmnkchfpfbh4t19ra) 
 
-Pedagogical diploma course [CLS910 –Supervising writing processes](https://chalmersuniversity.app.box.com/s/tbpcugrl16fpktt93p8n25shkhxixuwh) 
+Pedagogical diploma course [CLS910–Supervising writing processes](https://chalmersuniversity.app.box.com/s/tbpcugrl16fpktt93p8n25shkhxixuwh) 
 
 **Bold** and _Italic_ and `Code` text
 
