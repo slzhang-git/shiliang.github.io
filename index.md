@@ -36,7 +36,7 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 ### Projects
 
-**PI** of _Privacy-preserving learning for vehicle networks: applications and tools_ funded by the [Swedish Research Council](https://www.vr.se/english.html) (2020/09-2022/07)
+**PI** of _Privacy-preserving learning for vehicle networks: applications and tools_ funded by [Swedish Research Council](https://www.vr.se/english.html) (2020/09-2022/07)
 
 **Co-I** of _Privacy-Protected Machine Learning for Transport Systems_ funded by [Area of Advance Transport](http://www.chalmers.se/en/areas-of-advance/Transport/Pages/Read-more.aspx) and [Chalmers AI Research Centre (CHAIR)](https://www.chalmers.se/en/centres/chair/Pages/default.aspx) (2020/06-2021/06)
 
