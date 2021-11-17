@@ -20,17 +20,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## **Teaching Experience**
 
-Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2021 at Chalmers)
+Teacher for Master course [_DAT295: Autonomous and cooperative vehicular systems_](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2021 at Chalmers)
 
-Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications)(2021 at Chalmers)
+Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications)(2021 at Chalmers)
 
-Supervisor for Master thesis [Differential Privacy: an Extensive Evaluation of Open-Source Tools](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068)(2021 at Chalmers)
+Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068)(2021 at Chalmers)
 
-Teacher for Master course [DAT147: Technical writing in Computer Systems and Networks](https://chalmers.instructure.com/courses/10296/assignments/syllabus)(2020 at Chalmers)
+Teacher for Master course [_DAT147: Technical writing in Computer Systems and Networks_](https://chalmers.instructure.com/courses/10296/assignments/syllabus)(2020 at Chalmers)
 
-Teacher for Master course [DAT295: Autonomous and cooperative vehicular systems](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2020 at Chalmers)
+Teacher for Master course [_DAT295: Autonomous and cooperative vehicular systems_](https://chalmers.instructure.com/courses/11041/assignments/syllabus)(2020 at Chalmers)
+
+Teaching assistant for Master course _Control system & application of microcomputer_ (2017 at Xi'an Jiaotong University)
 
 ## **Projects & Publications**
+
+### Projects
+
+PI of _Privacy-preserving learning for vehicle networks: applications and tools_ funded by the [Swedish Research Council](https://www.vr.se/english.html) (2020/09-2022/07)
+
+Co-I of _Privacy-Protected Machine Learning for Transport Systems_ funded by [Area of Advance Transport](http://www.chalmers.se/en/areas-of-advance/Transport/Pages/Read-more.aspx) and [Chalmers AI Research Centre (CHAIR)](https://www.chalmers.se/en/centres/chair/Pages/default.aspx) (2020/06-2021/06)
+
+### Publications
 
 ## **Acadmic Participations**
 
