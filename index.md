@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **2012/06 to 2012/09:** Research assistant at [State Grid Corporation of China](http://www.sgcc.com.cn/html/sgcc_main_en/index.shtml) (Part-time)
 
-**2011/09 to 2018/07:** Master and PhD at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(full-time) 
+**2011/09 to 2018/03:** Master and PhD at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(full-time) 
 
 **2007/09 to 2011/07:** Bachelor at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)(full-time) 
 
