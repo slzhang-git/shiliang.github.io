@@ -42,6 +42,10 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 ### Publications
 
+[Shiliang Zhang, "An Energy Consumption Model for Electrical Vehicle Networks via Extended Federated-learning," 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 354-361, doi: 10.1109/IV48863.2021.9575223.](https://ieeexplore.ieee.org/document/9575223)
+
+[Xuehui Ma, Fucai Qian, Shiliang Zhang, and Li Wu. "Adaptive quantile control for stochastic system." ISA transactions (2021).](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950?via%3Dihub)
+
 ## **Acadmic Participations**
 
 ## **Pedagogical Development**
