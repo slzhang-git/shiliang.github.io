@@ -44,7 +44,17 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 Shiliang Zhang, "An Energy Consumption Model for Electrical Vehicle Networks via Extended Federated-learning," 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 354-361, [doi: 10.1109/IV48863.2021.9575223.](https://ieeexplore.ieee.org/document/9575223)
 
-Xuehui Ma, Fucai Qian, Shiliang Zhang, and Li Wu. "Adaptive quantile control for stochastic system." ISA transactions (2021).[doi: 10.1016/j.isatra.2021.05.032](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950?via%3Dihub)
+Xuehui Ma, Fucai Qian, Shiliang Zhang, and Li Wu. "Adaptive quantile control for stochastic system." ISA transactions, 2021, [doi: 10.1016/j.isatra.2021.05.032](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950?via%3Dihub)
+
+Xuehui Ma, Fucai Qian and Shiliang Zhang, "Dual control for stochastic systems with multiple uncertainties," 2020 39th Chinese Control Conference (CCC), 2020, pp. 1001-1006, [doi: 10.23919/CCC50068.2020.9189668.](https://ieeexplore.ieee.org/abstract/document/9189668)
+
+Shiliang Zhang, Hui Cao, Zonglin Ye, Yanbin Zhang and Xiali Hei "An outlier detection scheme for dynamical sequential datasets", Communications in Statistics - Simulation and Computation, 2019, 48:5, pp. 1450-1502, [doi: 10.1080/03610918.2017.1414249](https://www.tandfonline.com/doi/full/10.1080/03610918.2017.1414249)
+
+Shiliang Zhang, Hui Cao, Shuo Yang, Yanbin Zhang and X. Hei, "Sequential Outlier Criterion for Sparsification of Online Adaptive Filtering," IEEE Transactions on Neural Networks and Learning Systems, vol. 29, no. 11, pp. 5277-5291, Nov. 2018, [doi: 10.1109/TNNLS.2018.2795719.](https://ieeexplore.ieee.org/abstract/document/8291826)
+
+Xiaoyan Ma, Yanbin Zhang, Hui Cao, Shiliang Zhang and Yan Zhou. "Nonlinear regression with high-dimensional space mapping for blood component spectral quantitative analysis." Journal of Spectroscopy, 2018, [doi: 10.1155/2018/2689750](https://www.hindawi.com/journals/jspec/2018/2689750/)
+
+
 
 ## **Acadmic Participations**
 
