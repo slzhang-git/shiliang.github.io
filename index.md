@@ -50,7 +50,7 @@ Xuehui Ma, Fucai Qian and Shiliang Zhang, "Dual control for stochastic systems w
 
 Shiliang Zhang, Hui Cao, Zonglin Ye, Yanbin Zhang and Xiali Hei "An outlier detection scheme for dynamical sequential datasets", _Communications in Statistics - Simulation and Computation_, 2019, 48:5, pp. 1450-1502, [doi: 10.1080/03610918.2017.1414249](https://www.tandfonline.com/doi/full/10.1080/03610918.2017.1414249)
 
-Shiliang Zhang, Hui Cao, Shuo Yang, Yanbin Zhang and X. Hei, "Sequential Outlier Criterion for Sparsification of Online Adaptive Filtering," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 11, pp. 5277-5291, Nov. 2018, [doi: 10.1109/TNNLS.2018.2795719.](https://ieeexplore.ieee.org/abstract/document/8291826)
+Shiliang Zhang, Hui Cao, Shuo Yang, Yanbin Zhang and Xiali Hei, "Sequential Outlier Criterion for Sparsification of Online Adaptive Filtering," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 11, pp. 5277-5291, Nov. 2018, [doi: 10.1109/TNNLS.2018.2795719.](https://ieeexplore.ieee.org/abstract/document/8291826)
 
 Xiaoyan Ma, Yanbin Zhang, Hui Cao, Shiliang Zhang and Yan Zhou. "Nonlinear regression with high-dimensional space mapping for blood component spectral quantitative analysis." _Journal of Spectroscopy_, 2018, [doi: 10.1155/2018/2689750](https://www.hindawi.com/journals/jspec/2018/2689750/)
 
