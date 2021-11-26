@@ -66,6 +66,8 @@ Pedagogical diploma course [CLS925-University Teaching and Learning](https://cha
 
 Pedagogical diploma course [CLS910-Supervising Writing Processes](https://chalmersuniversity.app.box.com/s/tbpcugrl16fpktt93p8n25shkhxixuwh) 
 
+Pedagogical diploma course [CLS901-Blended Learning in Higher Education](https://chalmersuniversity.app.box.com/s/vwzr4hn4uo7pa1i3dx9k1cfoc0s10t52) 
+
 **Bold** and _Italic_ and `Code` text
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
