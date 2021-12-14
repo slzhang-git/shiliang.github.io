@@ -20,6 +20,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## **Teaching Experience**
 
+Teacher for Master course [DAT X05: Master's thesis in Computer science and engineering](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=16025&parsergrp=3) (2021-2022 at Chalmers)
+
 Teacher for Master course [_DAT295: Autonomous and cooperative vehicular systems_](https://chalmers.instructure.com/courses/11041/assignments/syllabus) (2021 at Chalmers)
 
 Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications) (2021 at Chalmers)
