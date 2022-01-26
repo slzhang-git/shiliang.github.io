@@ -44,7 +44,7 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 ### Publications
 
-Xuehui Ma, Fucai Qian, Shiliang Zhang, Li Wu, and Lei Liu. "Adaptive dual control with online outlier detection for uncertain systems", _ISA transactions_, 2021, [doi.org/10.1016/j.isatra.2022.01.021](https://www.sciencedirect.com/science/article/pii/S0019057822000386)
+Xuehui Ma, Fucai Qian, Shiliang Zhang, Li Wu, and Lei Liu. "Adaptive dual control with online outlier detection for uncertain systems", _ISA transactions_, 2022, [doi.org/10.1016/j.isatra.2022.01.021](https://www.sciencedirect.com/science/article/pii/S0019057822000386)
 
 Shiliang Zhang, "An Energy Consumption Model for Electrical Vehicle Networks via Extended Federated-learning", _2021 IEEE Intelligent Vehicles Symposium (IV)_, 2021, pp. 354-361, [doi: 10.1109/IV48863.2021.9575223.](https://ieeexplore.ieee.org/document/9575223)
 
