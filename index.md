@@ -64,7 +64,7 @@ Xiaoyan Ma, Yanbin Zhang, Hui Cao, Shiliang Zhang and Yan Zhou. "Nonlinear regre
 
 Pedagogical diploma course [CLS930–Diversity and Inclusion for Learning in Higher Education](https://chalmersuniversity.app.box.com/s/r8fw8ve1f2y2n3zc2mddr3kr8v37sg4i) (completed in 2021 at Chalmers)
 
-Pedagogical diploma course [CLS925-University Teaching and Learning](https://chalmersuniversity.app.box.com/s/4suyobb5adcd022jmnkchfpfbh4t19ra) 
+Pedagogical diploma course [CLS925-University Teaching and Learning](https://chalmersuniversity.app.box.com/s/4suyobb5adcd022jmnkchfpfbh4t19ra)(completed in 2022 at Chalmers) 
 
 Pedagogical diploma course [CLS910-Supervising Writing Processes](https://chalmersuniversity.app.box.com/s/tbpcugrl16fpktt93p8n25shkhxixuwh) 
 
