@@ -44,6 +44,8 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 ### Publications
 
+Xuehui Ma, Fucai Qian, Shiliang Zhang, Li Wu, and Lei Liu. "Adaptive quantile control for stochastic system." _ISA transactions_, 2021, [doi.org/10.1016/j.isatra.2022.01.021](https://www.sciencedirect.com/science/article/pii/S0019057822000386)
+
 Shiliang Zhang, "An Energy Consumption Model for Electrical Vehicle Networks via Extended Federated-learning," _2021 IEEE Intelligent Vehicles Symposium (IV)_, 2021, pp. 354-361, [doi: 10.1109/IV48863.2021.9575223.](https://ieeexplore.ieee.org/document/9575223)
 
 Xuehui Ma, Fucai Qian, Shiliang Zhang, and Li Wu. "Adaptive quantile control for stochastic system." _ISA transactions_, 2021, [doi: 10.1016/j.isatra.2021.05.032](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950?via%3Dihub)
