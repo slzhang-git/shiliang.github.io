@@ -24,6 +24,8 @@ Teacher for Master course [_DATX05: Master's thesis in Computer science and engi
 
 Teacher for Master course [_DAT295: Autonomous and cooperative vehicular systems_](https://chalmers.instructure.com/courses/11041/assignments/syllabus) (2021 at Chalmers)
 
+Supervisor for Master thesis _Privacy-Friendly Prediction of Energy Consumption on the Road_ (2022 at Chalmers)
+
 Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications) (2021 at Chalmers)
 
 Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068) (2021 at Chalmers)
