@@ -10,15 +10,15 @@
 
 **2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (full-time) 
 
-                        Working on: development&maintain&sustainability of large scale ICT software
+                        Work on: development&maintain&sustainability of large scale ICT software
 
 **2013/12 to 2014/12:** Research assistant at [China Aerospace Science and Technology Corporation](http://english.spacechina.com) (Part-time)
 
-                        Working on: control system for sterilization of biological fermentation
+                        Work on: control system for sterilization of biological fermentation
 
 **2012/06 to 2012/09:** Research assistant at [State Grid Corporation of China](http://www.sgcc.com.cn/html/sgcc_main_en/index.shtml) (Part-time)
 
-                        Working on: automatical temperature monitoring system for power substation devices
+                        Work on: automatical temperature monitoring system for power substation devices
 
 **2011/09 to 2018/03:** Master and PhD at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(full-time) 
 
