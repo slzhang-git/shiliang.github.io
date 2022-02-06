@@ -2,6 +2,8 @@
 
 
 
+Contact me by _shiliang@chalmers.se_
+
 ## **Education & Career**
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
@@ -72,7 +74,7 @@ Xiaoyan Ma, Yanbin Zhang, Hui Cao, Shiliang Zhang and Yan Zhou. "Nonlinear regre
 
 [Here](https://scholar.google.com/citations?user=qAgTw3EAAAAJ&hl=en) is a complete publication list.
 
-## **Acadmic Participations**
+<!--## **Acadmic Participations**-->
 
 ## **Pedagogical Development**
 
@@ -114,6 +116,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
--->
+
 
 ## Contact Information
+
+-->
