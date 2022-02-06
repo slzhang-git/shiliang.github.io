@@ -1,8 +1,7 @@
 ## This is me :-)
+<!--![20200913220217](https://user-images.githubusercontent.com/92975752/152693260-6448775d-b04e-4376-82ca-4206345693f9.jpg)-->
 
-![20200913220217](https://user-images.githubusercontent.com/92975752/152693260-6448775d-b04e-4376-82ca-4206345693f9.jpg {width="100"})
-
-<img src="https://user-images.githubusercontent.com/92975752/152693260-6448775d-b04e-4376-82ca-4206345693f9.jpg" width="150">
+<img src="https://user-images.githubusercontent.com/92975752/152693260-6448775d-b04e-4376-82ca-4206345693f9.jpg" width="250">
 
 Contact me by _shiliang@chalmers.se_
 
