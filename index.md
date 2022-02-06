@@ -6,7 +6,7 @@
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
 
-          Research fields: machine learning, deep learning, privacy preservation, transportation network
+                    Research fields: machine learning, deep learning, privacy preservation, transportation network
 
 **2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (full-time) 
 
