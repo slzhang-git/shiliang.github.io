@@ -9,27 +9,27 @@ Contact me by _shiliang@chalmers.se_
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
 
-                  Research fields: machine learning, deep learning, privacy preservation, vehicle networks
+                Research fields: machine learning, deep learning, privacy preservation, vehicle networks
 
 **2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (full-time) 
 
-                  Work on: development & maintenance & sustainability of large scale ICT software
+                Work on: development & maintenance & sustainability of large scale ICT software
 
 **2013/12 to 2014/12:** Research assistant at [China Aerospace Science and Technology Corporation](http://english.spacechina.com) (Part-time)
 
-                  Work on: control system for sterilization of biological fermentation
+                Work on: control system for sterilization of biological fermentation
 
 **2012/06 to 2012/09:** Research assistant at [State Grid Corporation of China](http://www.sgcc.com.cn/html/sgcc_main_en/index.shtml) (Part-time)
 
-                  Work on: automatical temperature monitoring system for power substation devices
+                Work on: automatical temperature monitoring system for power substation devices
 
 **2011/09 to 2018/03:** Master and PhD at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(full-time) 
 
-                  Research fields: machine learning, data processing, intelligent control, anomaly detection
+                Research fields: machine learning, data processing, intelligent control, anomaly detection
                         
 **2007/09 to 2011/07:** Bachelor at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)(full-time) 
 
-                  Major in Electrical Engineering and Automation
+                Major in Electrical Engineering and Automation
 
 ## **Teaching Experience**
 
