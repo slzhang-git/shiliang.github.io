@@ -6,11 +6,11 @@
 
 **2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
 
-                  Research fields: machine learning, deep learning, privacy preservation, transportation network
+                  Research fields: machine learning, deep learning, privacy preservation, vehicle networks
 
 **2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (full-time) 
 
-                  Work on: development & maintain & sustainability of large scale ICT software
+                  Work on: development & maintenance & sustainability of large scale ICT software
 
 **2013/12 to 2014/12:** Research assistant at [China Aerospace Science and Technology Corporation](http://english.spacechina.com) (Part-time)
 
@@ -84,6 +84,8 @@ Pedagogical diploma course [CLS910-Supervising Writing Processes](https://chalme
 
 Pedagogical diploma course [CLS901-Blended Learning in Higher Education](https://chalmersuniversity.app.box.com/s/vwzr4hn4uo7pa1i3dx9k1cfoc0s10t52) 
 
+<!--
+
 **Bold** and _Italic_ and `Code` text
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -111,5 +113,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slzhang-git/shiliang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
 
 ## Contact Information
