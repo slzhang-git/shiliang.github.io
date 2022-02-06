@@ -43,7 +43,7 @@ Supervisor for Master thesis _Privacy-Friendly Prediction of Energy Consumption 
 
 Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications) (2021 at Chalmers)
 
-Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068) (2021 at Chalmers)
+Co-supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068) (2021 at Chalmers)
 
 Teacher for Master course [_DAT147: Technical writing in Computer Systems and Networks_](https://chalmers.instructure.com/courses/10296/assignments/syllabus) (2020 at Chalmers)
 
