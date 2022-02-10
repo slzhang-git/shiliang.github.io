@@ -59,6 +59,8 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 **Co-I** of _Privacy-Protected Machine Learning for Transport Systems_ funded by [Area of Advance Transport](http://www.chalmers.se/en/areas-of-advance/Transport/Pages/Read-more.aspx) and [Chalmers AI Research Centre (CHAIR)](https://www.chalmers.se/en/centres/chair/Pages/default.aspx) (2020/06-2021/06)
 
+**Co-I** of _Spectra Online Quantitative Analysis Technology Based on Dynamic Generalized Takagi-Sugeno Type Fuzzy Association Rules Mining for Flue Gas of Thermal Power Plant_ funded by [National Natural Science Foundation of China](https://www.nsfc.gov.cn/english/site_1/about/6.html) (2014/01-2017/12)
+
 ### Publications
 
 Latest works:
