@@ -63,8 +63,6 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 ### Publications
 
-Latest works:
-
 Xuehui Ma, Fucai Qian, Shiliang Zhang, Li Wu, and Lei Liu. "Adaptive dual control with online outlier detection for uncertain systems", _ISA transactions_, 2022, [(link)](https://www.sciencedirect.com/science/article/pii/S0019057822000386)
 
 Shiliang Zhang, "An Energy Consumption Model for Electrical Vehicle Networks via Extended Federated-learning", _2021 IEEE Intelligent Vehicles Symposium (IV)_, 2021, pp. 354-361, [(link)](https://ieeexplore.ieee.org/document/9575223)
@@ -78,6 +76,9 @@ Shiliang Zhang, Hui Cao, Zonglin Ye, Yanbin Zhang and Xiali Hei "An outlier dete
 Shiliang Zhang, Hui Cao, Shuo Yang, Yanbin Zhang and Xiali Hei, "Sequential Outlier Criterion for Sparsification of Online Adaptive Filtering", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 11, pp. 5277-5291, Nov. 2018, [(link)](https://ieeexplore.ieee.org/abstract/document/8291826)
 
 Xiaoyan Ma, Yanbin Zhang, Hui Cao, Shiliang Zhang and Yan Zhou. "Nonlinear regression with high-dimensional space mapping for blood component spectral quantitative analysis", _Journal of Spectroscopy_, 2018, [(link)](https://www.hindawi.com/journals/jspec/2018/2689750/)
+
+Hui Cao, Shiliang Zhang, et al. "
+Automatic control method used for submerged arc furnace electrode based on high-precision fuzzy control." CN Patent No. CN103808159B 08 Jul. 2015, [(link)](https://patents.google.com/patent/CN103808159B/en)
 
 [Here](https://scholar.google.com/citations?user=qAgTw3EAAAAJ&hl=en) is a complete publication list.
 
