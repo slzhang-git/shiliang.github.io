@@ -5,7 +5,7 @@
 
 I'm Shiliang Zhang    :-)
 
-Contact me by _shiliang@chalmers.se_
+<!--Contact me by _shiliang@chalmers.se_-->
 
 ## **Education & Career**
 
