@@ -41,7 +41,7 @@ Teacher for Master course [_DAT295: Autonomous and cooperative vehicular systems
 
 Supervisor for Master thesis _Privacy-Friendly Prediction of Energy Consumption on the Road_ (2022 at Chalmers)
 
-Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-ehealth-applications) (2021 at Chalmers)
+Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications_](https://odr.chalmers.se/items/02d4c836-4e9b-4e8d-aa3d-104d5eb927f8) (2021 at Chalmers)
 
 Co-supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools_](https://masterthesis.cms.chalmers.se/content/differential-privacy-extensive-evaluation-open-source-tools-httpschalmerszoomusj67483532068) (2021 at Chalmers)
 
