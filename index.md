@@ -65,19 +65,19 @@ Teaching assistant for Master course _Control system & application of microcompu
 
 Latest works:
 
-Xuehui Ma, Fucai Qian, Shiliang Zhang, Li Wu, and Lei Liu. "Adaptive dual control with online outlier detection for uncertain systems", _ISA transactions_, 2022, [link](https://www.sciencedirect.com/science/article/pii/S0019057822000386)
+Xuehui Ma, Fucai Qian, Shiliang Zhang, Li Wu, and Lei Liu. "Adaptive dual control with online outlier detection for uncertain systems", _ISA transactions_, 2022, [(link)](https://www.sciencedirect.com/science/article/pii/S0019057822000386)
 
-Shiliang Zhang, "An Energy Consumption Model for Electrical Vehicle Networks via Extended Federated-learning", _2021 IEEE Intelligent Vehicles Symposium (IV)_, 2021, pp. 354-361, [link](https://ieeexplore.ieee.org/document/9575223)
+Shiliang Zhang, "An Energy Consumption Model for Electrical Vehicle Networks via Extended Federated-learning", _2021 IEEE Intelligent Vehicles Symposium (IV)_, 2021, pp. 354-361, [(link)](https://ieeexplore.ieee.org/document/9575223)
 
-Xuehui Ma, Fucai Qian, Shiliang Zhang, and Li Wu. "Adaptive quantile control for stochastic system", _ISA transactions_, 2021, [link](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950?via%3Dihub)
+Xuehui Ma, Fucai Qian, Shiliang Zhang, and Li Wu. "Adaptive quantile control for stochastic system", _ISA transactions_, 2021, [(link)](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002950?via%3Dihub)
 
-Xuehui Ma, Fucai Qian and Shiliang Zhang, "Dual control for stochastic systems with multiple uncertainties", _2020 39th Chinese Control Conference (CCC)_, 2020, pp. 1001-1006, [link](https://ieeexplore.ieee.org/abstract/document/9189668)
+Xuehui Ma, Fucai Qian and Shiliang Zhang, "Dual control for stochastic systems with multiple uncertainties", _2020 39th Chinese Control Conference (CCC)_, 2020, pp. 1001-1006, [(link)](https://ieeexplore.ieee.org/abstract/document/9189668)
 
-Shiliang Zhang, Hui Cao, Zonglin Ye, Yanbin Zhang and Xiali Hei "An outlier detection scheme for dynamical sequential datasets", _Communications in Statistics - Simulation and Computation_, 2019, 48:5, pp. 1450-1502, [link](https://www.tandfonline.com/doi/full/10.1080/03610918.2017.1414249)
+Shiliang Zhang, Hui Cao, Zonglin Ye, Yanbin Zhang and Xiali Hei "An outlier detection scheme for dynamical sequential datasets", _Communications in Statistics - Simulation and Computation_, 2019, 48:5, pp. 1450-1502, [(link)](https://www.tandfonline.com/doi/full/10.1080/03610918.2017.1414249)
 
-Shiliang Zhang, Hui Cao, Shuo Yang, Yanbin Zhang and Xiali Hei, "Sequential Outlier Criterion for Sparsification of Online Adaptive Filtering", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 11, pp. 5277-5291, Nov. 2018, [link](https://ieeexplore.ieee.org/abstract/document/8291826)
+Shiliang Zhang, Hui Cao, Shuo Yang, Yanbin Zhang and Xiali Hei, "Sequential Outlier Criterion for Sparsification of Online Adaptive Filtering", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 11, pp. 5277-5291, Nov. 2018, [(link)](https://ieeexplore.ieee.org/abstract/document/8291826)
 
-Xiaoyan Ma, Yanbin Zhang, Hui Cao, Shiliang Zhang and Yan Zhou. "Nonlinear regression with high-dimensional space mapping for blood component spectral quantitative analysis", _Journal of Spectroscopy_, 2018, [link](https://www.hindawi.com/journals/jspec/2018/2689750/)
+Xiaoyan Ma, Yanbin Zhang, Hui Cao, Shiliang Zhang and Yan Zhou. "Nonlinear regression with high-dimensional space mapping for blood component spectral quantitative analysis", _Journal of Spectroscopy_, 2018, [(link)](https://www.hindawi.com/journals/jspec/2018/2689750/)
 
 [Here](https://scholar.google.com/citations?user=qAgTw3EAAAAJ&hl=en) is a complete publication list.
 
