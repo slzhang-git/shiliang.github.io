@@ -33,13 +33,15 @@ I'm Shiliang Zhang    :-)
 
               Major in Electrical Engineering and Automation
 
-## **Teaching Experience**
+## **Teaching & supervising Experience**
 
 Teacher for Master course [_DATX05: Master's thesis in Computer science and engineering_](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=16025&parsergrp=3) (2021-2022 at Chalmers)
 
 Teacher for Master course [_DAT295: Autonomous and cooperative vehicular systems_](https://chalmers.instructure.com/courses/11041/assignments/syllabus) (2021 at Chalmers)
 
 Supervisor for Master thesis _Privacy-Friendly Prediction of Energy Consumption on the Road_ (2022 at Chalmers)
+
+Supervisor for Master thesis [_Evaluation of Privacy-protected Federated Learning_](https://odr.chalmers.se/items/ba6ce7bc-1b76-4533-bccd-1b326b9cdae3) (2022 at Chalmers)
 
 Supervisor for Master thesis [_Differential Privacy: an Extensive Evaluation of Open-Source Tools for eHealth Applications_](https://odr.chalmers.se/items/02d4c836-4e9b-4e8d-aa3d-104d5eb927f8) (2021 at Chalmers)
 
