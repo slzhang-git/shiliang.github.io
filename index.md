@@ -90,9 +90,9 @@ Pedagogical diploma course [CLS930–Diversity and Inclusion for Learning in Hig
 
 Pedagogical diploma course [CLS925-University Teaching and Learning](https://chalmersuniversity.app.box.com/s/4suyobb5adcd022jmnkchfpfbh4t19ra)(completed in 2022 at Chalmers) 
 
-Pedagogical diploma course [CLS910-Supervising Writing Processes](https://chalmersuniversity.app.box.com/s/tbpcugrl16fpktt93p8n25shkhxixuwh)(ongoing) 
+Pedagogical diploma course [CLS910-Supervising Writing Processes](https://chalmersuniversity.app.box.com/s/tbpcugrl16fpktt93p8n25shkhxixuwh)(completed in 2022 at Chalmers) 
 
-Pedagogical diploma course [CLS901-Blended Learning in Higher Education](https://chalmersuniversity.app.box.com/s/vwzr4hn4uo7pa1i3dx9k1cfoc0s10t52)(ongoing) 
+Pedagogical diploma course [CLS901-Blended Learning in Higher Education](https://chalmersuniversity.app.box.com/s/vwzr4hn4uo7pa1i3dx9k1cfoc0s10t52)(completed in 2022 at Chalmers) 
 
 <!--
 
