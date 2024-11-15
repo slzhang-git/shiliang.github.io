@@ -9,13 +9,14 @@ I'm Shiliang Zhang    :-)
 
 ## **Education & Career**
 
-**2020/06 till now:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
+**2020/06 till 2022/6:** Post-doc researcher at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) (full-time) 
 
               Research fields: machine learning, deep learning, privacy preservation, vehicle networks
-
+<!--
 **2018/04 to 2019/09:** Softerware engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com/en/) (full-time) 
 
               Work on: development & maintenance & sustainability of large scale ICT software
+-->
 
 **2013/12 to 2014/12:** Research assistant at [China Aerospace Science and Technology Corporation](http://english.spacechina.com) (Part-time)
 
